@@ -29,3 +29,12 @@ A Machine Learning based Email Spam Detection System developed using Python.
 📧 Email: sonam705236@gmail.com
 
 🌐 GitHub: https://github.com/sonam705236-hub
+## 📷 Project Screenshots
+
+### Screenshot 1
+
+![Screenshot 1](Screenshot%20(109).png)
+
+### Screenshot 2
+
+![Screenshot 2](Screenshot%20(110).png)
